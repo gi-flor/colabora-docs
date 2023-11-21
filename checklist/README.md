@@ -3,7 +3,7 @@ O propósito deste checklist é orientar-nos nos estágios iniciais do projeto.
 
 <hr />
 
-### Documentaçoes principais
+### Principais documentações
 
 #### 1 - Documento de Visão ou Briefing: 
 - Especifica a visão geral do software, seus objetivos, público-alvo, principais funcionalidades e benefícios esperados.
@@ -31,7 +31,7 @@ O propósito deste checklist é orientar-nos nos estágios iniciais do projeto.
 
 <hr />
 
-### Definições: 
+### Definições
 
 #### 1. Modelo de Negócios: 
 - Defina como a plataforma será monetizada (se aplicável). Por exemplo, poderia ser gratuito para usuários e cobrar taxas de organizações por funcionalidades premium.
